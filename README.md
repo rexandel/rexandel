@@ -33,7 +33,7 @@
   <br>
   
   <div style="max-width: 50px;">
-    <picture style="width: 30%; height: auto;">
+    <picture style="width: 32%; height: auto;">
       <source 
       media="(prefers-color-scheme: dark)"
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rexandel&layout=compact&theme=vue-dark&hide_border=true&langs_count=6&custom_title=Most%20Used%20Languages"
@@ -45,7 +45,7 @@
       <img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexandel&layout=compact"
       alt="Top Languages"
-      style="width: 30%; height: auto;"
+      style="width: 32%; height: auto;"
       />
     </picture>
   </div>
