@@ -9,8 +9,6 @@
   <div>
     🌍 I'm a software developer from Russia 🌍
     <br>
-    ⚡ My nickname is <code>rexandel</code> ⚡
-    <br>
     🎓 CS student at the Kuban State University 🎓
     <br>
     Interested in coding, AI, system design and graphic design
