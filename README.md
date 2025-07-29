@@ -11,7 +11,7 @@
     <br>
     🎓 CS student at the Kuban State University 🎓
     <br>
-    Interested in coding, AI, system design and graphic design
+    ⚡ Interested in coding, AI, system design and graphic design ⚡
   </div>
 
   <br>
