@@ -9,7 +9,7 @@
   <div>
     🌍 I'm a software developer from Russia 🌍
     <br>
-    My nickname is `rexandel`
+    ⚡ My nickname is <code>rexandel</code> ⚡
     <br>
     🎓 CS student at the Kuban State University 🎓
     <br>
@@ -18,19 +18,12 @@
 
   <br>
 
-  <div align="center" style="font-size: 0;">
-    <div style="display: flex; justify-content: center; gap: 5px; margin-bottom: 5px; width: 100%;">
-      <a href="https://t.me/rexandel" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logoColor=white&labelColor=2CA5E0" alt="Telegram" title="@rexandel" style="height: 28px;"/>
-      </a>
-      <a href="mailto:rexandel.dev@gmail.com" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logoColor=white&labelColor=D14836" alt="Email" style="height: 28px;"/>
-      </a>
-      <a href="https://linkedin.com/in/rexandel" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white&labelColor=0077B5" alt="LinkedIn" style="height: 28px;"/>
-      </a>
-    </div>
+  <div>
+  <a href="https://t.me/rexandel"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logoColor=white&labelColor=2CA5E0" alt="Telegram" title="@rexandel" style="height: 28px;"/></a>
+  <a href="mailto:rexandel.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logoColor=white&labelColor=D14836" alt="Email" style="height: 28px;"/></a>
+  <a href="https://linkedin.com/in/rexandel"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white&labelColor=0077B5" alt="LinkedIn" style="height: 28px;"/></a>
   </div>
+
   
   <div>
     <h2> 📚 My Skills 📚 </h2>
