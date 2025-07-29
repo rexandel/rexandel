@@ -31,4 +31,24 @@
       <img src="https://skillicons.dev/icons?i=python%2Cjava%2Ckotlin%2Ccs%2Ccpp%2Cqt%2Cdotnet%2Cpostgresql&theme=light&perline=4" alt="My skills"/>
     </picture>
   </div>
+
+  <br>
+  
+  <div style="max-width: 50px;">
+    <picture style="width: 30%; height: auto;">
+      <source 
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rexandel&layout=compact&theme=vue-dark&hide_border=true&langs_count=6&custom_title=Most%20Used%20Languages"
+      />
+      <source
+      media="(prefers-color-scheme: light)" 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rexandel&layout=compact&theme=vue&hide_border=true&langs_count=6&custom_title=Most%20Used%20Languages"
+      />
+      <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexandel&layout=compact"
+      alt="Top Languages"
+      style="width: 30%; height: auto;"
+      />
+    </picture>
+  </div>
 </div>
