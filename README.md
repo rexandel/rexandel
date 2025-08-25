@@ -19,14 +19,14 @@
   <div>
     <a href="https://t.me/rexandel"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logoColor=white&labelColor=2CA5E0" alt="Telegram" title="@rexandel" style="height: 28px;"/></a>
     <a href="mailto:rexandel.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logoColor=white&labelColor=D14836" alt="Email" style="height: 28px;"/></a>
-    <a href="https://linkedin.com/in/rexandel" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white&labelColor=0077B5" alt="LinkedIn" style="height: 28px;"/></a>
+    <!-- <a href="https://linkedin.com/in/rexandel" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white&labelColor=0077B5" alt="LinkedIn" style="height: 28px;"/></a> -->
   </div>
   
   <div>
     <h3>📚 My Skills 📚</h3>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Cjava%2Ckotlin%2Ccs%2Ccpp%2Cqt%2Cdotnet%2Cpostgresql&theme=dark&perline=4"/>
-      <img src="https://skillicons.dev/icons?i=python%2Cjava%2Ckotlin%2Ccs%2Ccpp%2Cqt%2Cdotnet%2Cpostgresql&theme=light&perline=4" alt="My skills"/>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Cjava%2Ckotlin%2Cqt%2Candroidstudio%2Cpostgresql%2Cmysql%2Cpostman%2Ckafka%2Crabbitmq&theme=dark&perline=5"/>
+      <img src="https://skillicons.dev/icons?i=python%2Cjava%2Ckotlin%2Cqt%2Candroidstudio%2Cpostgresql%2Cmysql%2Cpostman%2Ckafka%2Crabbitmq&theme=light&perline=5" alt="My skills"/>
     </picture>
   </div>
 
